@@ -1,0 +1,31 @@
+"bin": {
+    "your-command-here": "./index.js"
+  },
+
+  {
+    "name": "Hans Watkins",
+    "website": "https://hanswatkins.com/",
+    "linkedin": "https://www.linkedin.com/in/hanswatkins/",
+    "github": "hanswatkins",
+    "email": "hanswatkins@gmail.com",
+    "resume": "https://www.hanswatkins.com/resume",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+        "Express",
+        "Mongoose",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Postgres",
+        "AWS S3"
+    ],
+    "otherSkills": [
+        "Music Production",
+        "Audio Engineering",
+        "Photography"
+    ]
+}
+ 

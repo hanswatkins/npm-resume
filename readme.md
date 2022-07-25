@@ -1,0 +1,1 @@
+This is a resume for me, Hans Watkins. It describes the technologies I am proficient in and provides links to my locations across the internet!
