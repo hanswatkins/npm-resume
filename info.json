@@ -1,8 +1,4 @@
-"bin": {
-    "your-command-here": "./index.js"
-  },
-
-  {
+{
     "name": "Hans Watkins",
     "website": "https://hanswatkins.com/",
     "linkedin": "https://www.linkedin.com/in/hanswatkins/",
